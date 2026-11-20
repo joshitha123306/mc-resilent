@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Resilient Connect</string>
+    <string name="app_subtitle">Offline Emergency Mesh</string>
+    <string name="sos_disclaimer">Alerts nearby connected Resilient Connect devices only. Does not contact emergency services.</string>
+    <string name="no_internet_badge">100% Offline · Bluetooth Classic</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Resilient Connect",
+  "description": "Offline emergency device-to-device Bluetooth Classic messaging, SOS alerts, and multi-hop store-and-forward communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
